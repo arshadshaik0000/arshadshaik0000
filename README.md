@@ -15,7 +15,7 @@
     <li>🌱 I’m currently learning <b>Advanced Generative AI & LLaMA</b></li>
     <li>👯 I’m looking to collaborate on <b>SaaS platforms & AI Microservices</b></li>
     <li>💬 Ask me about <b>React, Angular, Spring Boot, Node.js, Python, AWS</b></li>
-    <li>📫 How to reach me: <a href="mailto:arshaduzzamshaik@gmail.com">arshaduzzamshaik@gmail.com</a></li>
+    <li>📫 How to reach me: <a href="mailto:arshaduzzamashaik@gmail.com">arshaduzzamshaik@gmail.com</a></li>
     <li>⚡ <b>Fun fact:</b> I can switch between frontend (Angular/React) and backend (Spring/.NET/Node) faster than I switch browser tabs!</li>
   </ul>
 
