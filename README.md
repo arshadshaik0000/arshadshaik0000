@@ -104,16 +104,32 @@
 
 <br/>
 
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://github.com/arshadshaik0000/arshadshaik0000/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
+
+<br/>
+
+<div align="center">
+  <h3>🤣 Random Dev Joke</h3>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</div>
+
+<br/>
 
 <div align="center">
   <b>Let's Connect!</b><br/>
   <a href="https://www.linkedin.com/in/arshad-uzzama-shaik-3b767424b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:arshaduzzamshaik@gmail.com">
+  <a href="mailto:arshaduzzamashaik@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/arshadshaik0000" target="_blank">
@@ -122,4 +138,9 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
+
 
